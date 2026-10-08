@@ -37,6 +37,13 @@ La litografía láser es un proceso de fabricación aditiva/sustractiva que util
 - **Sistemas de posicionamiento de precisión** (control de movimiento en ejes X-Y).
 - **Fotolitografía directa (maskless lithography)**, evitando el uso de máscaras físicas costosas.
 
+## Alineación con el ODS 9
+
+El proyecto se alinea con el Objetivo de Desarrollo Sostenible (ODS) 9 de las Naciones Unidas,  «Industria, innovación e infraestructura», cuya finalidad es construir infra- estructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación [10]. En particular, contribuye a las siguientes metas:
+
+- **Meta 9.5**: aumentar la investigación científica y mejorar la capacidad tecnológica. El sistema propuesto ofrece un instrumento de microfabricación accesible que amplía la capacidad experimental de laboratorios universitarios.
+  
+- **Meta 9.b**: apoyar el desarrollo tecnológico, la investigación y la innovación nacio- nales en los países en desarrollo. El proyecto genera tecnología propia, de bajo costo y documentada, que reduce la dependencia de equipos comerciales importados.
 ## 🛠️ Estructura del repositorio
 
 ```
